@@ -7,7 +7,7 @@ This tutorial/lab outlines the implementation of on-premises Active Directory wi
 
 <h2>Prerequisites</h2>
 
-- [Setup a Subscription and a Resource in Azure for Beginner Labs](https://github.com/jacksonmalms/setup-azure-sub-and-resource)
+- [Setup a Subscription and a Resource in Azure for Beginner Labs](https://github.com/aniyahelder/SetupAzure.git)
 - [Create Virtual Machines Within Azure and Observe The Network Topology](https://github.com/jacksonmalms/create-azure-vm)
 
 <h2>Environments and Technologies Used</h2>
