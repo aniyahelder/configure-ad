@@ -140,7 +140,7 @@ Then set the DSRM password, and then just hit nest until you can hit install. It
 <br />
 
 <p>
-<img src="https://i.imgur.com/5nfxWVn.png"/>
+<img src="https://i.imgur.com/uK7aDOZ.png"/>
 </p>
 <p>
 When you connect back into DC-1, you will need to use a different account and use mydomain.com\user (make sure it has a backslash and not a forward slash), use what ever username that you set when you created DC-1.
