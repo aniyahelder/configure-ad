@@ -60,7 +60,7 @@ Now go into DC-1 and click into the NIC (network interface card) as shown above.
 <br />
 
 <p>
-<img src="https://i.imgur.com/iBiPkNw.png"/>
+<img src="https://i.imgur.com/oqbvQ8d.png"/>
 </p>
 <p>
 Then go into IP configurations and click on DC-1's configuration.
