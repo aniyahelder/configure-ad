@@ -182,7 +182,7 @@ After you add Jane to the domain admins security group, logout and logon to DC-1
 <br />
 
 <p>
-<img src="https://i.imgur.com/8OmbFP9.png"/>
+<img src="https://i.imgur.com/foabt1w.png"/>
 </p>
 <p>
 Now set Client-1's DNS server to the private IP of DC-1, in the case of mine it was 10.0.0.4.
